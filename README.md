@@ -1,4 +1,4 @@
-# Currency Converter Website
+# Currency Converter Website.
 
 ## Overview
 
